@@ -1,2 +1,0 @@
-a='joud'
-print(a)
