@@ -1,0 +1,2 @@
+a='joud'
+print(a)
